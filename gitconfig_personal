@@ -1,7 +1,7 @@
 # ~/Projects/personal/.gitconfig_personal
 
 [user]
-email = user_name@github.com
+email = user_name@your-email-domain.com
 name = Your Name here
 
 [github]

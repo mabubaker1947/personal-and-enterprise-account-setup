@@ -1,0 +1,10 @@
+# FIle to be placed at ~/.ssh/config
+
+Host *.github.com
+  AddKeysToAgent yes
+  IdentityFile ~/.ssh/id_your-username
+
+Host *.github.enterprise.com
+  AddKeysToAgent yes
+  IdentityFile ~/.ssh/id_ed25519
+

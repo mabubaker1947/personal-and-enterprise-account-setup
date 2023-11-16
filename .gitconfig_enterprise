@@ -1,0 +1,11 @@
+# ~/Projects/enterprise/.gitconfig_enterprise
+
+[user]
+email = user_name@enterprise-company.com
+name = Your Name here
+
+[github]
+user = "your-user-name-here"
+
+[core]
+sshCommand = "ssh -i ~/.ssh/id_ed25519"

@@ -1,0 +1,11 @@
+# ~/Projects/personal/.gitconfig_personal
+
+[user]
+email = user_name@github.com
+name = Your Name here
+
+[github]
+user = "your-personal-github-username-here"
+
+[core]
+sshCommand = "ssh -i ~/.ssh/id_your-username"
